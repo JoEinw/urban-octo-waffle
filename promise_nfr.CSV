@@ -1,4 +1,3 @@
-RequirementText	Label
 The system shall refresh the display every 60 seconds.	1
 The application shall match the color of the schema set forth by Department of Homeland Security	1
  If projected  the data must be readable.  On a 10x10 projection screen  90% of viewers must be able to read Event / Activity data from a viewing distance of 30	1
@@ -86,24 +85,24 @@ The system shall be expected to manage the nursing program curriculum and class/
 The system shall able to operate within a business office environment typical of the Nursing Department at DePaul University.	1
 The system shall be used within the specifications defined by the computers used by the Program Administrators/Nursing Staff Members.	1
 The system shall operate within the Windows XP Professional operating system.	1
-The system shall interface with CampusConnectís central server	1
+The system shall interface with CampusConnect‚Äôs central server	1
 The system shall interface with the faculty central server.	1
 The system shall interface with the student master server.	1
 We must be able to interface with any HTML browser.	1
 Only authorized users shall have access to clinical site information.	1
 Program Administrators/Nursing Staff Members are the only people who shall have access to clinical site details.	1
-Only authorized users shall have access to studentsí personal information.	1
-Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to studentsí personal information.	1
+Only authorized users shall have access to students‚Äô personal information.	1
+Dr Susan Poslusny and Dr Julie Donalek are the only people who shall have access to students‚Äô personal information.	1
 Only authorized users shall have access to the portion of the system that interfaces with CampusConnect.	1
 Fit Criterion: Dr Susan Poslusny and Karen Sysol are the only people who shall have access to the final class section scheduling for the system that interfaces with CampusConnect.	1
 The system shall have basic data integrity checking to reduce the possibility of incorrect or invalid data being introduced.	1
-The system shall protect private information in accordance with the organizationís information policy.	1
+The system shall protect private information in accordance with the organization‚Äôs information policy.	1
 The system shall be built such that it is as secure as possible from malicious interference.	1
-The system shall use the organizationís standard virus protection software to help monitor threats to itself.	1
+The system shall use the organization‚Äôs standard virus protection software to help monitor threats to itself.	1
 A cohort shall be associated to one Program of Study offered by the department.	0
 Program Administrators and Nursing Staff Members shall be able to add a listing of students to a cohort.	0
 Program Administrators and Nursing Staff Members shall be able to add a single student to a cohort	0
-Students added to a cohort shall be eligible for the cohortís Program of Study.	0
+Students added to a cohort shall be eligible for the cohort‚Äôs Program of Study.	0
 Program Administrators and Nursing Staff Members shall be able to specify the preferred sequence of classes for a given cohort.	0
  For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.	0
  For each class within a sequence for a cohort  Program Administrators and Nursing Staff Members shall be able to specify which quarter that class will be offered.	0
@@ -117,7 +116,7 @@ A class shall be either a non-clinical class or a clinical class.	0
 Program Administrators/Nursing Staff Members shall be able to create a new Program of Study.	0
 A Program of Study shall consist of a program name and listing of required classes (both clinical and non-clinical) that must be completed.	0
 Program Administrators and Nursing Staff Members shall have the ability to specify which classes are required for a Program of Study	0
-The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Membersí planning purposes.	0
+The system shall be able to display a report of needed classes for a given quarter for all cohorts of all programs for Program Administrators/Nursing Staff Members‚Äô planning purposes.	0
  The report of needed classes shall include (but not be limited to) classes to be offered  number of sections needed  number of labs needed  and room types needed.	0
 Classes for a given cohort shall not conflict with regards to the time and day that they are offered.	0
 Program Administrators and Nursing Staff Members shall be able to add a new clinical site into the system.	0
@@ -140,8 +139,8 @@ The system will use the stored e-mail addresses as a primary means of communicat
  The system will notify affected parties for routine communication purposes  including but not limited to informing students of upcoming offered classes (timeline) and what their schedule will be/shall be.	0
  The system will notify affected parties when changes occur affecting clinicals  including but not limited to clinical section capacity changes  and clinical section cancellations.	0
  The system will notify affected parties when changes occur affecting classes  including but not limited to class cancellations  class section detail changes  and changes to class offerings for a given quarter.	0
- The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohortís program of study and changes to a given weekís schedule (lab cancelled this week due to instructor illness).	0
- The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a studentís status from full time to part time and moving a student to a different clinical section.	0
+ The system will notify affected parties when changes occur affecting cohorts  including but not limited to changes to the sequence for a cohort‚Äôs program of study and changes to a given week‚Äôs schedule (lab cancelled this week due to instructor illness).	0
+ The system will notify affected parties when changes occur affecting specific students  including but not limited to changing a student‚Äôs status from full time to part time and moving a student to a different clinical section.	0
  Program Administrators/Nursing Staff Members shall have the ability to modify information relating to cohorts  including cohort identifier  program of study  preferred sequence of classes and quarters that a cohort will be taking specific classes.	0
  Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Program of Study within the Nursing Department  including the Program of study name  and required classes for that Program of Study.	0
  Program Administrators/Nursing Staff Members shall have the ability to modify information relating to a Clinical Site  including the clinical site name  site contact person  contact information  and address.	0
@@ -155,18 +154,18 @@ The list of dispute cases that are displayed after a search is performed must be
 100% of merchant services representatives shall be able to successfully perform a follow up action on a dispute case on the first encounter after completing the training course.	1
 The maximum wait time for a user navigating from one screen to another within the Disputes application shall be no more than 5 seconds.	1
 The Disputes application shall support 350 concurrent users without any degradation of performance in the application.	1
- The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ñ Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST	1
+ The Disputes application shall be available 24x7x365  with the exception of the following scheduled maintenance windows.  Monday ‚Äì Saturday 3:00am to 4:00am EST Sunday 1:00amd to 5:00am EST	1
 The Disputes application shall interface with the Statement Database. The Statement Database provides the transaction details to the Disputes System. All transaction details must be obtained from the Statement Database	1
 The Disputes application shall interface with the Cardmember Information Database.  The Cardmember Information Database provides detailed information with regard to a cardmember.  All cardmember detail information must be obtained from the Cardmember Information Database.	1
 The Disputes applications shall interface with the Merchant Information Database.  The Merchant Information Database provides detailed information with regard to the merchant. All merchant detail information shall be obtained from the Merchant Information Database.	1
 The Disputes application shall interface with the Letters application.  This will allow the Disputes application to request letters as part of the dispute initiation and dispute follow up process. All letter requests must be sent to the Print Letter Utility application.	1
-The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchantís accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.	1
+The Disputes application shall interface with the Cardmember Posting and Billing System.  This will allow the Disputes application to request adjustments to cardmember and merchant‚Äôs accounts. All adjustment requests must be sent to the Cardmember Posting and Billing System.	1
 The Disputes application shall ensure that only users with the appropriate access level are allowed to initiate dispute requests.	1
 Only users with Update access must be able to initiate dispute requests.	1
 The Disputes application shall ensure that only authorized users are allowed to logon to the application.	1
  All authorized users  once authenticated must be able to logon to the Disputes System	1
-The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing userís access level.  The report will be reviewed for auditing purposes.	1
-All additions of new users and modifications to userís access shall be recorded on the User Report.	1
+The Disputes System shall generate a User Report that details any new users that have been added and any changes to an existing user‚Äôs access level.  The report will be reviewed for auditing purposes.	1
+All additions of new users and modifications to user‚Äôs access shall be recorded on the User Report.	1
  If a user account is revoked  it can only be re-instantiated by the System Administrator.	1
 Only the System Administrator shall be able to reset a revoked user logon account	1
 The Disputes application shall manipulate and view business data. Users will not have direct access to data files or databases.	1
@@ -280,7 +279,7 @@ The product will function alongside server software on any operating system wher
 The product will require collaboration with a database management system (DBMS).  The DBMS may be located on the same machine as the product or on a separate machine residing on the same computer network.	1
  The product must make use of web/application server technology.  Open source examples include Apache web server  Tomcat  and the JBoss application server.	1
  A database management system such as Oracle  DB2  MySql or HSQL will need to be integrated with the product.	1
- The productís Look and Feel shall be able to incorporate aspects of the customerís organization such as logo  branding  and identity	1
+ The product‚Äôs Look and Feel shall be able to incorporate aspects of the customer‚Äôs organization such as logo  branding  and identity	1
 The product shall have a conservative and professional appearance.	1
 The product shall make the users want to use it. 80% of the users surveyed report they are regularly using the product after the first 2 weeks post-launch.	1
 The product shall be easy to use. 90% of users will be able to successfully reserve a conference room within 5 minutes of product use.	1
@@ -291,7 +290,7 @@ The product shall allow for customization of start page and views preferences.	1
 The product shall use a standard navigation menu familiar to most web users.	1
 The product shall allow for intuitive searching of available conference rooms.	1
 The product shall conform to the Americans with Disabilities Act.	1
-The response shall be fast enough to avoid interrupting the userís flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.	1
+The response shall be fast enough to avoid interrupting the user‚Äôs flow of thought.  90% of tasks shall complete within 5 seconds.  98% of tasks shall complete within 8 seconds.	1
  Aside from server failure  the software product shall achieve 99.99% up time.	1
 The product shall create an exception log of problems encountered within the product for transmission to our company for analysis and resolution.	1
  The product shall be capable of handling up to 1 000 concurrent requests.  This number will increase to 2 000 by Release 2.  The concurrency capacity must be able to handle peak scheduling times such as early morning and late afternoon hours.	1
@@ -306,21 +305,21 @@ The product shall be available for distribution as a packaged CD.	1
  The product will be available for licensing as a one-server  two-five servers  or five-or-more servers license.	1
 A new user must be able to be added to the system within 10 minutes.  90% of new users are able to log into the system within 10 minutes.	1
 The product must be designed using Design Patterns and coding best practices.  90% of maintenance software developers are able to integrate new functionality into the product with 2 working days.	1
-The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the productís software code.	1
+The product must be highly configurable for use with various database management systems for the end users.  80% of end users are able to integrate new database management systems with the product without changing the product‚Äôs software code.	1
 Maintenance releases will be offered to customers once a year.  The releases shall take no longer than 5 minutes for 80% of the customer base to install.	1
-Every registered user will have access to the productís support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.	1
-The customer shall be able to easily integrate new building maps with the product throughout the productís lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.	1
- The product shall be translated into foreign languages other than the target market countriesí languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that marketís language.	1
+Every registered user will have access to the product‚Äôs support site via the Internet.  70% of registered users shall find a solution to their problem within 5 minutes of using the support site.	1
+The customer shall be able to easily integrate new building maps with the product throughout the product‚Äôs lifecycle.  Integration of new maps with the product shall be possible with little to no support from product support staff.	1
+ The product shall be translated into foreign languages other than the target market countries‚Äô languages in future releases.  For each emerging target market  it shall take no more than 5 days to configure the product for that market‚Äôs language.	1
  The product is expected to integrate with multiple database management systems.  The product will operate with Oracle  SQL Server  DB2  MySQL  HSQL  and MS Access.	1
 The product shall be able to be installed in any operating environment within 2 days.	1
 The product shall ensure that only company employees or external users with company-approved user IDs may have product access.  100% of all logons shall be by either company employees or external users with company-approved user IDs.	1
 Only managers are able to perform search queries for reservations by user.  100% of all search queries for reservations by user shall be from logons of only management logons.	1
-The product shall ensure that the databaseís data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.	1
-The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systemsí data shall remain 100% uncorrupted each time malicious data is input into the product.	1
+The product shall ensure that the database‚Äôs data corresponds to the data entered by the user.  Each conference room reservation in the system will contain the same information as was entered by the user.	1
+The product shall prevent the input of malicious data.  The product and/or adjacent hardware/software systems‚Äô data shall remain 100% uncorrupted each time malicious data is input into the product.	1
 The product and/or dependent databases/filesystems shall remain operational as a result of the input of malicious data.  The product and/or dependent databases/filesystems shall not crash 100% of the time that malicious data is input into the product.	1
 The product shall have the ability to receive automatic software updates as new threats emerge.  100% of customers will be able to receive automatic software updates transmitted to the installed product.	1
 The language of the product shall accommodate all of the target market countries. 90% of survey respondents from each target market country will find that the language of the product is acceptable.	1
-The product shall be able to display calendar dates and times according to the userís locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.	1
+The product shall be able to display calendar dates and times according to the user‚Äôs locale.  90% of survey respondents from each target market country will find that the date and time formatting of the product is correct.	1
 The product must be developed with the J2SE/J2EE programming language libraries	1
 The product shall record meeting entries.	0
 The product will notify employees of meeting invitations.	0
@@ -374,8 +373,8 @@ The System shall generate Inventory Quantity Adjustment document based on produc
 The System shall generate Inventory Quantity Adjustment document automatically when daily Product Sales data is available.	0
 Administrator shall be able to activate a pre-paid card via the Administration section in under 5 seconds.	1
  Customer shall be able to check the status of their prepaid card  by entering in the PIN number  in under 5 seconds.	1
-System shall let customers register on the website as a ìpay as you goî user in under 5 minutes.	1
-System shall let customers register on the website as a ìunlimited movie subscriberî user in under 10 minutes.	1
+System shall let customers register on the website as a ‚Äúpay as you go‚Äù user in under 5 minutes.	1
+System shall let customers register on the website as a ‚Äúunlimited movie subscriber‚Äù user in under 10 minutes.	1
 System shall let existing customers log into the website with their email address and password in under 5 seconds.	1
  System shall let customers cancel their account  process shall take no longer than 2 minutes.  Database will mark the account as inactive  and user will not be able to log into the website.	1
 System shall let administrator de-activate a customer account in under 1 minute. Customer will no longer be able to access the website.	1
@@ -391,14 +390,14 @@ The product should be able to be used by 90% of novice users on the Internet.	1
 Users should be able to access their streaming movies in under 2 clicks after logging into the website.	1
 An anonymous survey will show that 70% of customers are comfortable purchasing streaming movies after 2 weeks using the website.	1
 An anonymous survey will show that 95% of customers are comfortable using and purchasing pre-paid cards after a month of using the system.	1
-The product shall retain the customerís buying preferences and information.	1
+The product shall retain the customer‚Äôs buying preferences and information.	1
 The product shall be easy for customers with novice skills on the  Internet to purchase and watch streaming movies.  Customers should be able to purchase and watch a pre-determined movie in under 3 minutes.	1
 The product shall use symbols and words that are naturally understandable by users familiar with websites	1
 The website will use standard Internet conventions when interacting with the user.	1
  Any interface between a user and the automated system shall have a maximum response time of 5 seconds  unless noted by an exception below.	1
  When purchasing a streaming movie or pre-paid card via credit card  the processing time should have a maximum response time of 15 seconds.	1
- When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the userís connection.)	1
- While streaming a movie  buffering should only occur if there is latency in the userís connection.	1
+ When streaming a movie  the buffering time should take no longer than 10 seconds (plus any latency on the user‚Äôs connection.)	1
+ While streaming a movie  buffering should only occur if there is latency in the user‚Äôs connection.	1
  All credit card information will be secured on the server  and only accessible by authorized Izogn administrators.  Information will be encrypted in the database.	1
  The website shall be available for use 24 hours per day  365 days per year.	1
 The website shall achieve 99.5% up time.	1
@@ -434,7 +433,7 @@ The website shall prevent its data from being corrupted when incorrect data is e
 Data integrity scripts will be run on a weekly basis to verify the integrity of the database.	1
  The website shall make its user aware of its information practices before collection data from them via a Privacy Policy  accessible on all pages of the website.	1
 The system shall notify customers of changes to its information policy.	1
-The system shall reveal private information only in compliance with the organizationís information policy.	1
+The system shall reveal private information only in compliance with the organization‚Äôs information policy.	1
  All customer information will be stored on a secure database  accessible only to authorized personnel.	1
 All credit card information will be encrypted in the database.	1
 The streaming server will have anti-virus software to prevent infection of malicious viruses.	1
@@ -456,7 +455,7 @@ Website shall allow the Izogn administrator to approve a review posted by a cust
 System will allow customers to pay for a streaming movie with a pre-paid card.	0
  Website shall allow customers to purchase pre-paid cards of $5  $10  or $20 value either by credit card or mail-in payment option.	0
  System shall automatically update the main page of the website every Friday  and show the 4 latest movies that have been added to the website.	0
-System shall allow users to update their billing and contact information via the ìMy Accountî section of the website.	0
+System shall allow users to update their billing and contact information via the ‚ÄúMy Account‚Äù section of the website.	0
  Pre-paid cards shall be distributed via email  or via a printed paper card.	0
 Only registered customers can purchase streaming movies.	0
  Movies can only be streamed if the customer has purchased a movie  and is within the 2-day time period to stream the movie.	0
